@@ -1,0 +1,7 @@
+if a = b           {
+          a :=      c + h
+}
+else
+{
+       a := h % k
+}
